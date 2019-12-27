@@ -1,0 +1,1 @@
+int array_sum(int *p,unsigned int n);
